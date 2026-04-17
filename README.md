@@ -83,6 +83,6 @@ Add CO₂ estimation metrics
 
 Muhammad Kamran Kabeer
 
-DEV.to: https://dev.to/muhammadkamrankabeeross
-GitHub: (add link here)
+DEV.to: https://dev.to/muhammadkamrankabeeross/reducing-carbon-footprint-with-lightweight-docker-containers-a-devops-experiment-on-image-2068
+GitHub:https://github.com/muhammadkamrankabeer-oss/eco-docker/
 Focus: DevOps | Linux | Cloud | Automation
