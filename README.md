@@ -1,5 +1,17 @@
 ![CI/CD Status](PASTE_BADGE_LINK_HERE)
+## 🔄 CI/CD Pipeline
 
+This project includes an automated CI/CD pipeline using GitHub Actions.
+
+### Workflow:
+- Code pushed to repository
+- Docker image builds automatically
+- Container is tested in CI environment
+
+### Benefits:
+- No manual deployment needed
+- Faster and consistent builds
+- Reduced human errors
 🌱 EcoDocker — Reducing Carbon Footprint with Lightweight Containers
 
 A DevOps experiment demonstrating how Docker image optimization can reduce resource usage, improve deployment speed, and support sustainable infrastructure practices.
