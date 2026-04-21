@@ -1,3 +1,5 @@
+![CI/CD Status](PASTE_BADGE_LINK_HERE)
+
 🌱 EcoDocker — Reducing Carbon Footprint with Lightweight Containers
 
 A DevOps experiment demonstrating how Docker image optimization can reduce resource usage, improve deployment speed, and support sustainable infrastructure practices.
